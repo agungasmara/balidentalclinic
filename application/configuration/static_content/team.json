@@ -1,0 +1,38 @@
+[
+	{
+		"name": "dr. Taufan Halim",
+		"position": "Doctor",
+		"description": "dr. Taufan is graduated from Udayana University in 2010. Currently, He take a role as head of emergency department Siloam Hospitals Bali.",
+		"img": "taufan.jpg"
+	},
+	{
+		"name": "drg. Hervina, M.Biomed",
+		"position": "Dentist",
+		"description": "drg. Hervina, M.Biomed, graduate from faculty of dentistry on Mahasaraswati University, Denpasar, on 2006. She is actively involved in research on dentistry field.",
+		"img": "vivi.jpg"
+	},
+	{
+		"name": "dr. Bagus Prakarsa Sentosa",
+		"position": "Doctor",
+		"description": "dr. Bagus is graduated from Udayana University in 2016. He also being doctor in Transportation Minister in Bali from 2016 until early 2018.",
+		"img": "bagus.jpg"
+	},
+	{
+		"name": "drg. Cynthia",
+		"position": "Dentist",
+		"description": "drg. Cynthia is dentist at Confi-Dent Dental and Health Care Seminyak Bali. Since graduated from Mahasaraswati Denpasar University Bali in March 2017, dr. Cynthia has spent 4 months working at an Orthodontic Clinic in Bunbury, Western Australia.",
+		"img": "cynthia.jpg"
+	},
+	{
+		"name": "drg. I Putu Indra Prihanjana, M.Kes",
+		"position": "Dentist",
+		"description": "drg. I Putu Indra Prihanjana, M.Kes graduate from faculty of dentistry on Mahasaraswati University, Denpasar, on 2007. He actively participate in several national or international dentistry seminars and workshops",
+		"img": "indra.jpg"
+	},
+	{
+		"name": "drg. Diah",
+		"position": "Dentist",
+		"description": "drg. Diah is Dentist at Confi-Dent Health and Dental Care Seminyak Bali since May 2018. Having to work at different regions in Bali gives She the ability to relate to many patients with different dental conditions and background.",
+		"img": "diah.jpg"
+	}
+]

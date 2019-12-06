@@ -1,0 +1,44 @@
+[
+	{
+		"icon": "icons icon-clock",
+		"iconClass": "text-primary",
+		"class": "background-color-primary order-md-1 order-lg-1",
+		"title": "Effective Order System",
+		"description": "Space man concrete artisanal youtube order-flow assault RAF table woman sunglasses saturation point"
+	},
+	{
+		"icon": "icons icon-star",
+		"iconClass": "text-secondary",
+		"class": "background-color-secondary order-md-2 order-lg-2",
+		"title": "High Quality Services",
+		"description": "Space man concrete artisanal youtube order-flow assault RAF table woman sunglasses saturation point"
+	},
+	{
+		"icon": "icons icon-game-controller",
+		"iconClass": "text-primary",
+		"class": "background-color-primary order-md-4 order-lg-3",
+		"title": "New Technologies",
+		"description": "Space man concrete artisanal youtube order-flow assault RAF table woman sunglasses saturation point"
+	},
+	{
+		"icon": "icons icon-home",
+		"iconClass": "text-secondary",
+		"class": "background-color-secondary order-md-3 order-lg-4",
+		"title": "Modern & Pleasant Interior",
+		"description": "Space man concrete artisanal youtube order-flow assault RAF table woman sunglasses saturation point"
+	},
+	{
+		"icon": "icons icon-feed",
+		"iconClass": "text-primary",
+		"class": "background-color-primary order-md-5 order-lg-5",
+		"title": "Free Wifi in Waiting Room",
+		"description": "Space man concrete artisanal youtube order-flow assault RAF table woman sunglasses saturation point"
+	},
+	{
+		"icon": "icons icon-people",
+		"iconClass": "text-secondary",
+		"class": "background-color-secondary order-md-6 order-lg-6",
+		"title": "Helpfull Personel",
+		"description": "Space man concrete artisanal youtube order-flow assault RAF table woman sunglasses saturation point"
+	}
+]

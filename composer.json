@@ -1,0 +1,12 @@
+{
+	"require": {
+		"Illuminate/database": "*",
+		"php-curl-class/php-curl-class": "*"
+	},
+	"autoload": {
+		"classmap": [
+			"application/models",
+			"application/core/mycontrollers"
+		]
+	}
+}

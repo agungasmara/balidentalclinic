@@ -1,0 +1,27 @@
+[
+	{
+		"icon": "icons icon-wallet",
+		"title": "No Unneccesary Commision Fee",
+		"description": "Our service is 100% no commision neither to your hotel or tour guide"
+	},
+	{
+		"icon": "icons icon-phone",
+		"title": "Simple Booking Process",
+		"description": "You can request a doctor online or by calling <a href=\"tel:6281805510887\">+62 818 0551 0887</a> from 9AM - 10PM or email us at <a href=\"mailto:halim.taufan@gmail.com\">halim.taufan@gmail.com</a>"
+	},
+	{
+		"icon": "icons icon-people",
+		"title": "Caring & Experienced Doctors",
+		"description": "We aim to have one of our on duty registered doctors visit you within 1 hours of the booking being confirmed"
+	},
+	{
+		"icon": "icons icon-badge",
+		"title": "Integrated Medication and Laboratory Service",
+		"description": "To ensure comprehensive service. our team works together with pharmacy and laboratory services"
+	},
+	{
+		"icon": "icons icon-heart",
+		"title": "Continuity of Care ",
+		"description": "Our service replace your regular general practitioner service. Every patient will be gave a medical report to ensuring continuity care at your home. Follow up call will be conducted 1-2 days after the treatment to make sure we do not lost any little things"
+	}
+]

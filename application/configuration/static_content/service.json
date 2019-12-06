@@ -1,0 +1,30 @@
+[
+	{
+		"icon": "fas fa-tooth",
+		"title": "Dental Care",
+		"class": "d-flex justify-content-end col-md-6 left-side background-color-primary",
+		"textColor": "text-primary",
+		"description": [
+			"<p class=\"text-light font-weight-light\">",
+				"Our dental team provides exceptional dental treatments for you and your family. As a valued patient we can provide a comprehensive range of general and cosmetic dental services. So whether it’s your annual dental check-up and clean, or you would like to undergo Cosmetic Dentistry we are here to offer you a truly outstanding experience",
+			"</p>"
+		],
+		"link": "services/dental_care",
+		"linkClass": "primary",
+		"linkText": "OUR DENTAL SERVICESE"
+	},
+	{
+		"icon": "fas fa-heartbeat",
+		"title": "Traveller Health Care",
+		"class": "d-flex justify-content-start col-md-6 background-color-tertiary",
+		"textColor": "text-tertiary",
+		"description": [
+			"<p class=\"text-light font-weight-light\">",
+				"It is not only dental treatment, our team also include general practicioner. we provide a travelers health care, range from daily consultation, wound treatment and intravenous procedure. we are to make sure your holiday does not ruined by medical proclem. if you need any furtehr treatment we have good acces to international hospital and also medical evacuation.",
+			"</p>"
+		],
+		"link": "services/traveler_health_care",
+		"linkClass": "tertiary",
+		"linkText": "CHECK OUR COVERAGE"
+	}
+]

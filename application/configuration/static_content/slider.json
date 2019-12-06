@@ -1,0 +1,117 @@
+[
+	{
+		"name": "intro",
+		"background": "slider-1.png",
+		"elements": [
+			{
+				"type": "div",
+				"text": "YOU'RE TRAVELLER IN BALI",
+				"attributes": {
+					"class": "tp-caption top-label text-white font-weight-semibold",
+					"data-x": "center",
+					"data-hoffset": 0,
+					"data-y": "center",
+					"data-voffset": -130,
+					"data-start": 500,
+					"style": "z-index: 5",
+					"data-transform_in": "y:[-300%];opacity:0;s:500;"
+				}
+			},
+			{
+				"type": "div",
+				"text": "NEED MEDICAL<br>TREATMENT",
+				"attributes" : {
+					"class": "tp-caption main-label text-white text-center",
+					"data-x": "center",
+					"data-hoffset": 0,
+					"data-y": "center",
+					"data-voffset": -45,
+					"data-start": 1500,
+					"data-whitespace": "nowrap",
+					"data-transform_in": "y:[100%];s:500;",
+					"data-transform_out": "opacity:0;s:500;",
+					"style": "z-index: 5",
+					"data-mask_in": "x:0px;y:0px;"
+				}
+			},
+			{
+				"type": "div",
+				"text": "That Professional and has Reasonable Price ?",
+				"attributes": {
+					"class": "tp-caption bottom-label text-white font-weight-semibold",
+					"data-x": "center",
+					"data-hoffset": 0,
+					"data-y": "center",
+					"data-voffset": 40,
+					"data-start": 2000,
+					"data-fontsize": "['20','20','20','30']",
+					"style": "z-index: 5",
+					"data-transform_in": "y:[100%];opacity:0;s:500;"
+				}
+			},
+			{
+				"type": "a",
+				"text": "Bali Dental Clinic <i class=\"icons icon-arrow-right-circle ml-2\"></i>",
+				"href": "",
+				"attributes": {
+					"class": "tp-caption btn btn-lg btn-white btn-slider-action text-color-primary",
+					"data-hash": "",
+					"data-hash-offset": 85,
+					"data-x": "center",
+					"data-hoffset": 0,
+					"data-y": "center",
+					"data-voffset": 120,
+					"data-start": 2200,
+					"data-whitespace": "nowrap",
+					"data-fontsize": "['22','22','22','32']",
+					"data-transform_in": "y:[100%];s:500;",
+					"data-transform_out": "opacity:0;s:500;",
+					"style": "z-index: 5",
+					"data-mask_in": "x:0px;y:0px;"
+				}
+			}
+		]
+	},
+	{
+		"name": "slider 2",
+		"background": "slider-2.png",
+		"elements": [
+			{
+				"type": "div",
+				"text": "Bali Dental Clinic",
+				"attributes": {
+					"class": "tp-caption bottom-label text-white font-weight-semibold",
+					"data-x": "center",
+					"data-y": "center",
+					"data-voffset": -45,
+					"data-start": 500,
+					"data-fontsize": "['52','52','52','62']",
+					"style": "z-index: 5",
+					"data-transform_in": "y:[100%];s:500;",
+					"data-transform_out": "opacity:0;s:500;"
+				}
+			},
+			{
+				"type": "div",
+				"text": "No #1 Dental Clinic in Bali",
+				"attributes": {
+					"class": "tp-caption bottom-label text-white",
+					"data-x": "center",
+					"data-y": "center",
+					"data-voffset": 5,
+					"data-start": 1000,
+					"data-fontsize": "['23','23','23','30']",
+					"data-transform_idle": "o:1;",
+					"data-transform_in": "y:[100%];z:0;rZ:-35deg;sX:1;sY:1;skX:0;skY:0;s:600;e:Power4.easeInOut;",
+					"data-transform_out": "opacity:0;s:500;",
+					"data-mask_in": "x:0px;y:0px;s:inherit;e:inherit;",
+					"data-splitin": "chars",
+					"data-splitout": "none" ,
+					"data-responsive_offset": "on",
+					"style": "font-size: 23px; line-height: 30px;",
+					"data-elementdelay": 0.05
+				}
+			}
+		]
+	}
+]

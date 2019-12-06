@@ -1,0 +1,40 @@
+[
+	{
+		"type": "image",
+		"date": "23 Aug 2018",
+		"imageLink": "internal",
+		"imageSrc": "public/inventory/news/news-1.jpg",
+		"title": "What Is Teeth Whitenin",
+		"anchor": "#"
+	},
+	{
+		"type": "image",
+		"date": "20 Aug 2018",
+		"imageLink": "internal",
+		"imageSrc": "public/inventory/news/news-1.jpg",
+		"title": "How To Keep Our Bady Healty",
+		"anchor": "#"
+	},
+	{
+		"type": "text",
+		"date": "19 Aug 2018",
+		"title": "Tooth brush and Their TREAT",
+		"lead": "As you use your toothbrush, the bristles get worn down and frayed. This causes them to be less effective at removing the plaque and calculus that accumulates on your teeth. Don’t wait until your brush is visibly splayed out and frayed!",
+		"anchor": "#"
+	},
+	{
+		"type": "instagram",
+		"imageSrc": "https://scontent-sit4-1.cdninstagram.com/vp/0b219edf87af049c18d11223f6c0a548/5C36A147/t51.2885-15/e35/38821004_725875837744739_1444966713660538880_n.jpg",
+		"anchor": "https://www.instagram.com/p/Bmr-w7MBJMF/"
+	},
+	{
+		"type": "instagram",
+		"imageSrc": "https://scontent-sit4-1.cdninstagram.com/vp/22ccdfcecf8bce69093e95bd464ee1b3/5C15131E/t51.2885-15/sh0.08/e35/s640x640/39754833_284245112388239_7209161709380960256_n.jpg",
+		"anchor": "https://www.instagram.com/p/BmwFZg1BBSc/"
+	},
+	{
+		"type": "instagram",
+		"imageSrc": "https://scontent-sit4-1.cdninstagram.com/vp/4fc6804dc799e192a8dfa6e8b2889f5a/5BFCD7FF/t51.2885-15/sh0.08/e35/s640x640/39397336_314912119087242_2887226416808591360_n.jpg",
+		"anchor": "https://www.instagram.com/p/BmsS03VBQUz/"
+	}
+]

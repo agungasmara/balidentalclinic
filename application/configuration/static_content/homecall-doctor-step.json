@@ -1,0 +1,32 @@
+[
+	{
+		"icon": "icons icon-phone",
+		"title": "Contact Us",
+		"description": "You can contact us by calling <a class=\"text-tertiary\" href=\"tel:6281337398840\">+62 813 3739 8840</a> from 9AM - 10PM or email at <a class=\"text-tertiary\" href=\"mailto:admin@balidentalclinic.com\">admin@balidentalclinic.com</a>"
+	},
+	{
+		"icon": "icons icon-bubbles",
+		"title": "First Information",
+		"description": "Tell us your about your profile, current address, condition & symptoms"
+	},
+	{
+		"icon": "icons icon-people",
+		"title": "Meet The Doctor",
+		"description": "After we receive your call & information, Doctor will visit you in your hotel or home. Our service level is 1 hour after we get notification"
+	},
+	{
+		"icon": "icons icon-chemistry",
+		"title": "Medicine & Lab Check",
+		"description": "You will get treatment & medication after we do some general check. If you need lab check, we will provide that to you"
+	},
+	{
+		"icon": "icons icon-note",
+		"title": "Report & Invoice",
+		"description": "We will send your medical report and invoice through your email"
+	},
+	{
+		"icon": "icons icon-heart",
+		"title": "Continuity of Care ",
+		"description": "Follow up call will be conducted 1-2 days after the treatment to make sure we do not lost any little things."
+	}
+]
