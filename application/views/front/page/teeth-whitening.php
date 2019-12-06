@@ -1,5 +1,6 @@
 <?php
 $imgHeaderLink = base_url($this->config->item('siteAssetDir') . 'white.jpg');
+$voucherlink = base_url("promotion/code/decWhiteningOFF20");
 $image1 = base_url($this->config->item('siteAssetDir') . 'white1.jpg');
 $image2 = base_url($this->config->item('siteAssetDir') . 'white2.jpg');
 $image3 = base_url($this->config->item('siteAssetDir') . 'white3.jpg');
@@ -24,7 +25,10 @@ $instantbooking = 'https://confidentdentalhealthcare.simplybook.asia/v2/#book/se
 				</p>
 				<p class="text-light mb-5">
 					if you are visiting Bali and try tos keep your whiter smile during holiday, we strongly recommend for you to make an appointment as this procedure is at high demand.
-				</p>
+				</p>				
+				<h2 class="text-light mb-2">
+					<a href="<?=$voucherlink?>">Get December Promo </a>20% OFF
+				</h2>
 				<a href="<?=$instantbooking?>" class="btn btn-tertiary py-3 px-5 p-sm-4 font-weight-semibold mb-5 ">
 					<i class="icons icon-calendar mr-3"></i>
 					INSTANT BOOKING
